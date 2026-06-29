@@ -29,7 +29,6 @@ del control PID se optimizan con **Cuckoo Search** sobre una integración **RK4*
 | `dron_L_1D_grad_vs_ang.m` | Comparación de corrección por gradiente vs por ángulo (1D). |
 | `campos3.m` | Comparación de métodos de cálculo del campo (analítico / numérico / tabla). |
 | `ejecutar_todos.m` | Lanzador secuencial de los programas. |
-| `resultados/` | Figuras y resultados generados por cada programa. |
 
 ## Requisitos
 
